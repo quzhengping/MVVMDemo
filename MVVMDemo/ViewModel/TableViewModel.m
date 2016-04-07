@@ -43,6 +43,10 @@
         });
 }
 
+
+
+
+
 - (void )footerRefreshRequestWithCallback:(callback)callback
 {
         //  后台执行：
